@@ -1,18 +1,18 @@
 
-h1 {color: #89cff0;
+h1 {color: blue;
 display: block;
  	margin: 0 auto;
 	text-align: center;
 }
 
-h2{color: #89cff0;
+h2{color:  blue;
 
 	text-align: center;
 }
-h3{color: #89cff0;
+h3{color: blue;
 }
 body {
-  background-color: #CC5500;
+  background-color: orange;
 
 	 position: relative;
 	 min-height: 100%;
