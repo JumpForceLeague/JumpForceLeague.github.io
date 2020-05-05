@@ -12,7 +12,7 @@ h2{color: blue;
 h3{color: blue;
 }
 body {
-  background-image: linear-gradient(orange, black);
+  background-image: color:orange;
 
 	 position: relative;
 	 min-height: 100%;
